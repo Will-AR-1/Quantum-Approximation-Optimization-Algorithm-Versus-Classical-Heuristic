@@ -1,4 +1,4 @@
-![BeyondQuantum Banner for Research Projects](../BeyondQuantum_Banner_Research_Projects_2026.png)
+![Poster for the project:](https://canva.link/w0mrw4rdn9f8bsf)
 
 # Quantum Approximation Optimization Ratio vs. Classical Heuristic
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SvMgp-lwdbEtp4B1DVivEoVY2rHAgx6P?usp=sharing)
